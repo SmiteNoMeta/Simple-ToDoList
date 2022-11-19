@@ -1,0 +1,21 @@
+.usun a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: red;
+    padding: 1px 3px;
+    border: 1px solid black;
+}
+
+.bok {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.powrot {
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 4px;
+    background-color: tomato;
+}
